@@ -1,24 +1,7 @@
-Look at these please:
-
-[SierpinskiTrianglesP5](https://martijnkunstman.github.io/SierpinskiTrianglesP5/) - 
-[LangtonAntArt](https://martijnkunstman.github.io/LangtonAntArt/) - 
-[HexagonTiles](https://martijnkunstman.github.io/HexagonTiles/) - 
-[CreativeCodingCollectionSlideshow](https://martijnkunstman.github.io/CreativeCodingCollectionSlideshow/) - 
-[MoirePatterns](https://martijnkunstman.github.io/MoirePatterns/) - 
-[GLU-corona-simulation](https://martijnkunstman.github.io/GLU-corona-simulation/) - 
+[SierpinskiTrianglesP5](https://martijnkunstman.github.io/SierpinskiTrianglesP5/) -|- 
+[LangtonAntArt](https://martijnkunstman.github.io/LangtonAntArt/) -|- 
+[HexagonTiles](https://martijnkunstman.github.io/HexagonTiles/) -|- 
+[CreativeCodingCollectionSlideshow](https://martijnkunstman.github.io/CreativeCodingCollectionSlideshow/) -|- 
+[MoirePatterns](https://martijnkunstman.github.io/MoirePatterns/) -|- 
+[GLU-corona-simulation](https://martijnkunstman.github.io/GLU-corona-simulation/) -|- 
 [SpacialHash](https://martijnkunstman.github.io/SpacialHash/)
-
-<!--
-**martijnkunstman/martijnkunstman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
