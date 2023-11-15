@@ -1,12 +1,12 @@
 Look at these please:
 
-https://martijnkunstman.github.io/SierpinskiTrianglesP5/
-https://martijnkunstman.github.io/LangtonAntArt/
-https://martijnkunstman.github.io/HexagonTiles/
-https://martijnkunstman.github.io/CreativeCodingCollectionSlideshow/
-https://martijnkunstman.github.io/MoirePatterns/
-https://martijnkunstman.github.io/GLU-corona-simulation/
-https://martijnkunstman.github.io/SpacialHash/
+[SierpinskiTrianglesP5](https://martijnkunstman.github.io/SierpinskiTrianglesP5/)
+[LangtonAntArt](https://martijnkunstman.github.io/LangtonAntArt/)
+[HexagonTiles](https://martijnkunstman.github.io/HexagonTiles/)
+[CreativeCodingCollectionSlideshow](https://martijnkunstman.github.io/CreativeCodingCollectionSlideshow/)
+[MoirePatterns](https://martijnkunstman.github.io/MoirePatterns/)
+[GLU-corona-simulation](https://martijnkunstman.github.io/GLU-corona-simulation/)
+[SpacialHash](https://martijnkunstman.github.io/SpacialHash/)
 
 <!--
 **martijnkunstman/martijnkunstman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
